@@ -1,0 +1,8 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.key
+master.json
+mfa_secret.json
+passwords.json

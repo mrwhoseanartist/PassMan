@@ -55,9 +55,9 @@ python passman.py
 
 ## 🎯 Why Use PassMan?
 
-🔹 **Simple & Lightweight** – Runs in the terminal with minimal setup.
-🔹 **Highly Secure** – Encrypts passwords using AES encryption.
-🔹 **Multi-Layer Authentication** – Master Password + Optional MFA.
+🔹 **Simple & Lightweight** – Runs in the terminal with minimal setup. |
+🔹 **Highly Secure** – Encrypts passwords using AES encryption. |
+🔹 **Multi-Layer Authentication** – Master Password + Optional MFA. |
 🔹 **Open Source & Customizable** – Modify it to suit your needs.
 
 ---

@@ -141,7 +141,17 @@ def main():
         return
     
     while True:
-        choice = input("1. Save password\n2. Retrieve password\n3. Generate password\n4. Setup MFA (Optional)\n5. Exit\nEnter choice: ")
+        print("\n" + "="*30)
+        print("      PASSWORD MANAGER")
+        print("="*30)
+        print("[1] Save Password")
+        print("[2] Retrieve Password")
+        print("[3] Generate Password")
+        print("[4] Setup MFA (Optional)")
+        print("[5] Exit")
+        print("="*30)
+        
+        choice = input("Enter choice: ")
         
         if choice == "1":
             save_password(input("Service: "), input("Username: "), getpass.getpass("Password: "), key)

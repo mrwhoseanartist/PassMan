@@ -169,7 +169,7 @@ def main():
             else:
                 print("MFA setup failed or skipped.")
         elif choice == "5":
-            print("Exiting... Goodbye!")
+            print("Exiting... See ya!")
             break
         else:
             print("Invalid choice! Please try again.")
